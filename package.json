@@ -1,0 +1,17 @@
+{
+  "name": "playwright-api",
+  "version": "1.0.0",
+  "description": "for api automation using playwright",
+  "main": "index.js",
+  "scripts": {},
+  "author": "imam isfahani",
+  "license": "ISC",
+  "dependencies": {
+    "ajv": "^8.17.1",
+    "playwright": "^1.49.1"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.49.1",
+    "@types/node": "^22.10.7"
+  }
+}
